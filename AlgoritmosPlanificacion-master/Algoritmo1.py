@@ -78,4 +78,6 @@ def lanzar():
     inProcesos()
     FCFS()
 
+
+
 lanzar()
